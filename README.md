@@ -28,4 +28,6 @@ Results:
 - Correlation between Total Listing and Average Price is quite low.
 - We could create price prediction model using those features, with Mean Absolute Error around $36 (from Test Dataset). We also could recommend the host to increase price on weekend by 4-5%. However I think that MAE (Mean Absolute Error) could be improved if we add more data or more features.
 
+Medium Link: 
+https://wellydp91.medium.com/data-scientist-udacity-nanodegree-project-seattle-airbnb-data-analysis-modeling-fe3ef4c55adb
 
