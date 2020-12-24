@@ -1,5 +1,11 @@
 # Seattle Airbnb Data Analysis & Modeling
 
+## Business Understanding
+
+Airbnb is a vacation rental online marketplace. Users could host / rent properties at Airbnb. 
+Data that is available at their platform could be used to provide better services for their users, such as providing host/property recommendation, price suggestion for their hosting, and also search optimization.
+
+
 ## Project Motivation
 
 I want to use Seattle Airbnb data to create price prediction model. This model could be used to help host (especially the new one) to set proper price for their listing. So, after they fill out their listing information, they will get the price recommendation (that the model output).
